@@ -1,0 +1,9 @@
+- apiGroups:
+    - "apps"
+    - "autoscaling"
+  resources: ["statefulsets","deployments","horizontalpodautoscalers"]
+  verbs:
+    - "get"
+    - "watch"
+    - "list"
+    - "create"

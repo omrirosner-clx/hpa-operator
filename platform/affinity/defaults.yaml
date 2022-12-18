@@ -1,0 +1,4 @@
+nodeAffinities:
+  - key: role
+    value: platform
+    operator: In

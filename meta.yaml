@@ -1,0 +1,6 @@
+name: hpa-operator
+CX_PRODUCT: platform
+deploy_envs:
+  - dev-shared
+deployable_type: application
+arch: arm
